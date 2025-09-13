@@ -1,0 +1,379 @@
+[
+    {
+        "name": "西部数据 SN5000 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "Western Digital",
+        "model": "WDS100T4BOE",
+        "price": 509,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Western Digital 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 5150,
+                "write": 4900
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.4",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写速度接近主流PCIe 4.0 SSD中端水准，适合日常与游戏使用",
+                "thermals": "无额外散热设计，建议搭配主板自带散热片",
+                "reliability": "西部数据自研主控与TLC闪存，寿命达600TBW，稳定性良好",
+                "value": "性价比高，但无DRAM缓存可能影响小文件随机性能"
+            }
+        }
+    },
+    {
+        "name": "希捷 酷玩520 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "Seagate",
+        "model": "ZP1000GV3A012",
+        "price": 459.0,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Seagate 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 5000,
+                "write": 4850
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.3",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写性能接近PCIe 4.0主流水平，日常与游戏加载表现良好",
+                "thermals": "未配备额外散热片，高负载下可能产生一定温升，建议搭配主板散热片",
+                "reliability": "TLC闪存，600TBW耐久度，适合高强度使用场景",
+                "value": "整体性价比较高，但无DRAM缓存可能影响随机小文件性能"
+            }
+        }
+    },
+    {
+        "name": "佰维 NV7400 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "BIWIN",
+        "model": "BNV740001TB",
+        "price": 489,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "BIWIN 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 7400,
+                "write": 6500
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 1000,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.4",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写速度处于PCIe 4.0顶级水准，适合高性能应用和游戏",
+                "thermals": "无自带散热片，高负载下可能发热，建议搭配散热器",
+                "reliability": "1000TBW耐久度，适合长期高写入场景，稳定性有保障",
+                "value": "性能强劲，耐久度高，但无DRAM缓存，可能在小文件处理上略有影响"
+            }
+        }
+    },
+    {
+        "name": "宏碁掠夺者 GM7 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "Predator",
+        "model": "BL.9BWWR.118",
+        "price": 469,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Innogrit 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 7200,
+                "write": 6300
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.4",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写性能接近PCIe 4.0高端水准，适合游戏和高性能应用",
+                "thermals": "无附带散热片，高负载下建议搭配主板或第三方散热器",
+                "reliability": "600TBW耐久度，TLC闪存，满足日常和游戏使用需求",
+                "value": "价格定位中高端，性能强劲但无DRAM缓存，随机性能可能略受影响"
+            }
+        }
+    },
+    {
+        "name": "三星 990 EVO Plus 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "Samsung",
+        "model": "MZ-V9S1T0BW",
+        "price": 599,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Samsung 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 7150,
+                "write": 6300
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.4",
+                "AES 256-bit加密",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写性能接近PCIe 4.0顶级水准，整体表现优异",
+                "thermals": "支持动态温控，无散热片版本需依赖主板散热方案",
+                "reliability": "三星原厂主控和TLC颗粒，600TBW耐久度，稳定性良好",
+                "value": "定位高端，性能与可靠性兼具，但无DRAM缓存可能影响小文件处理"
+            }
+        }
+    },
+    {
+        "name": "宏碁掠夺者 GM9 1TB PCIe 5.0 NVMe",
+        "category": "ssd",
+        "brand": "Predator",
+        "model": "BL.9BWWR.136",
+        "price": 699,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 5.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Innogrit/Phison 主控（PCIe 5.0方案）",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 14000,
+                "write": 7300
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 2.0",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读速高达14GB/s，写入性能主流水准，充分发挥PCIe 5.0带宽优势",
+                "thermals": "PCIe 5.0高性能SSD发热量大，强烈建议搭配专用散热片或风扇",
+                "reliability": "600TBW耐久度，TLC颗粒，能满足高强度读写需求",
+                "value": "属于新一代高端产品，性能强劲但价格偏高，无DRAM缓存可能影响随机性能"
+            }
+        }
+    },
+    {
+        "name": "铠侠 SD10 1TB PCIe 4.0 NVMe",
+        "category": "ssd",
+        "brand": "Kioxia",
+        "model": "LSD10Z001TC8",
+        "price": 409,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 4.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Kioxia 主控",
+            "dram_cache": false,
+            "sequential_speed": {
+                "read": 5000,
+                "write": 3900
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 1.4",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读速 5GB/s，写入速度相对较低，更适合日常办公与轻度游戏",
+                "thermals": "无散热片设计，长时间高负载下可能出现降速，建议搭配散热片",
+                "reliability": "600TBW 耐久度，TLC 闪存，满足日常使用需求",
+                "value": "定位入门到主流，价格通常较亲民，但无DRAM缓存影响随机性能"
+            }
+        }
+    },
+    {
+        "name": "三星 9100 PRO 1TB PCIe 5.0 NVMe",
+        "category": "ssd",
+        "brand": "Samsung",
+        "model": "MZ-VAP1T0BW",
+        "price": 929,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 5.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Samsung 主控",
+            "dram_cache": true,
+            "dram_size": "1GB",
+            "sequential_speed": {
+                "read": 14700,
+                "write": 13300
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 2.0",
+                "AES 256-bit加密",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "顺序读写性能处于PCIe 5.0顶级水平，适合高性能工作负载与专业应用",
+                "thermals": "发热量较高，强烈建议使用主板或独立散热器",
+                "reliability": "600TBW 耐久度，TLC 闪存与 DRAM 缓存提供更稳定的性能",
+                "value": "属于旗舰级产品，性能强劲但价格昂贵，面向发烧友与专业用户"
+            }
+        }
+    },
+    {
+        "name": "致态 TiPro9000 1TB PCIe 5.0 NVMe",
+        "category": "ssd",
+        "brand": "致态 (ZhiTai)",
+        "model": "TiPro9000-1TB",
+        "price": 959,
+        "specs": {
+            "capacity": 1024,
+            "type": "NVMe SSD",
+            "interface": "PCIe 5.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "长江存储 Xtacking 4.0 TLC",
+            "controller": "致态自研主控",
+            "dram_cache": true,
+            "sequential_speed": {
+                "read": 14000,
+                "write": 12500
+            },
+            "random_speed": {
+                "read": 1750000,
+                "write": 1800000
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 2.0",
+                "TCG Pyrite 加密协议",
+                "TRIM支持",
+                "S.M.A.R.T监控",
+                "致态天枢大师管理软件"
+            ],
+            "review": {
+                "performance": "PCIe 5.0 顶级旗舰，顺序读写与随机 IOPS 性能均处于行业领先水平",
+                "thermals": "配备原厂散热器，高负载下仍需良好机箱风道保障温度",
+                "reliability": "采用长江存储 Xtacking 4.0 TLC 颗粒，耐久度 600TBW，适合高强度写入场景",
+                "value": "旗舰定位，面向专业与发烧友用户，价格较高但性能无可挑剔"
+            }
+        }
+    },
+    {
+        "name": "西部数据 SN810 1TB PCIe 5.0 NVMe",
+        "category": "ssd",
+        "brand": "Western Digital",
+        "model": "WDS100T1X0M",
+        "price": 1019,
+        "specs": {
+            "capacity": 1000,
+            "type": "NVMe SSD",
+            "interface": "PCIe 5.0 x4",
+            "form_factor": "M.2 2280",
+            "nand_type": "TLC",
+            "controller": "Western Digital 主控",
+            "dram_cache": true,
+            "dram_size": "1GB",
+            "sequential_speed": {
+                "read": 14900,
+                "write": 11000
+            },
+            "random_speed": {
+                "read": null,
+                "write": null
+            },
+            "endurance": 600,
+            "warranty": 5,
+            "features": [
+                "NVMe 2.0",
+                "AES 256-bit加密",
+                "TRIM支持",
+                "S.M.A.R.T监控"
+            ],
+            "review": {
+                "performance": "读速接近15GB/s，写速达11GB/s，性能处于PCIe 5.0 SSD顶级水准",
+                "thermals": "高负载下发热量较大，建议使用散热片或主动风冷",
+                "reliability": "TLC闪存+DRAM缓存，600TBW耐久度，稳定性有保障",
+                "value": "定位旗舰，性能极强，价格偏高，更适合高端玩家和专业创作者"
+            }
+        }
+    }
+]

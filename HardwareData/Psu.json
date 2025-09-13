@@ -1,0 +1,470 @@
+[
+    {
+        "name": "长城 850WX8金牌全模白",
+        "category": "psu",
+        "brand": "长城(Great Wall)",
+        "model": "X8白色ATX3.0",
+        "price": 489,
+        "specs": {
+            "wattage": 850,
+            "efficiency": "90 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "全模组",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 6,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "dimensions": null,
+            "weight": 2.41,
+            "cable_length": "1.5m",
+            "review": {
+                "performance": "金牌转换效率，电压稳定，支持温控",
+                "noise": "支持风扇启停，低负载时静音",
+                "cables": "全模组化，理线方便",
+                "build_quality": "用料扎实，符合ATX3.0规范",
+                "value": "高功率金牌全模组电源，适合高端配置"
+            }
+        }
+    },
+    {
+        "name": "九州风神PF500X毁灭者铜牌直出",
+        "category": "psu",
+        "brand": "九州风神(DEEPCOOL)",
+        "model": "PF500X-HD",
+        "price": 219,
+        "specs": {
+            "wattage": 500,
+            "efficiency": "85 Plus Bronze",
+            "form_factor": "ATX",
+            "modular": "非模组化",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "标准风扇控制"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": null,
+                "pcie": null,
+                "sata": 6,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "dimensions": null,
+            "weight": 1.36,
+            "cable_length": null,
+            "review": {
+                "performance": "铜牌效率，稳定性一般，适合中低功耗系统",
+                "noise": "风扇噪音适中",
+                "cables": "非模组化，理线需要规划",
+                "build_quality": "用料基本可靠，符合ATX 2.52规范",
+                "value": "性价比一般的500W铜牌电源"
+            }
+        }
+    },
+    {
+        "name": "航嘉WD500K500W金牌直出黑",
+        "category": "psu",
+        "brand": "航嘉(Huntkey)",
+        "model": "HK600-12PP",
+        "price": 239,
+        "specs": {
+            "wattage": 500,
+            "efficiency": "90 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "非模组化",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "不支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 4,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 1.86,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，稳定性良好，支持温控",
+                "noise": "风扇启停不支持，低负载时噪音一般",
+                "cables": "非模组化，需要合理理线",
+                "build_quality": "用料扎实，符合ATX规范",
+                "value": "500W金牌直出电源，适合中端系统"
+            }
+        }
+    },
+    {
+        "name": "酷冷至尊 G600 600W金牌",
+        "category": "psu",
+        "brand": "酷冷至尊(CoolerMaster)",
+        "model": "G600金牌",
+        "price": 279,
+        "specs": {
+            "wattage": 600,
+            "efficiency": "80 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "非模组化",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "不支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "24pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 6,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 2.1,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，电压稳定，支持温控",
+                "noise": "风扇启停不支持，低负载噪音一般",
+                "cables": "非模组化，理线需规划",
+                "build_quality": "用料扎实，符合ATX规范",
+                "value": "600W金牌电源，适合中高端配置"
+            }
+        }
+    },
+    {
+        "name": "海韵CORE 750W金牌全模黑",
+        "category": "psu",
+        "brand": "SEASONIC",
+        "model": "CORE GX750 ATX3",
+        "price": 599,
+        "specs": {
+            "wattage": 750,
+            "efficiency": "80 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "全模组化",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "支持温控"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": null,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": null,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，电压稳定，支持温控",
+                "noise": "风扇噪音低，温控调节良好",
+                "cables": "全模组化，理线方便",
+                "build_quality": "用料扎实，符合ATX规范",
+                "value": "750W金牌全模组电源，适合高端配置"
+            }
+        }
+    },
+    {
+        "name": "海韵FOCUS GX1000W金牌全模白",
+        "category": "psu",
+        "brand": "SEASONIC",
+        "model": "FOCUS GX1000 ATX3.0 white",
+        "price": 1459,
+        "specs": {
+            "wattage": 1000,
+            "efficiency": "80 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "全模组化",
+            "fan": {
+                "size": 135,
+                "bearing": "流体轴承",
+                "control": "支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 8,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 3.4,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，电压稳定，适合高功率系统，支持温控",
+                "noise": "风扇启停功能有效，低负载时几乎静音",
+                "cables": "全模组化，理线方便",
+                "build_quality": "用料扎实，符合ATX3.0规范",
+                "value": "1000W高功率金牌全模组电源，适合高端白色主题机箱"
+            }
+        }
+    },
+    {
+        "name": "爱国者750W白牌直出黑",
+        "category": "psu",
+        "brand": "爱国者(aigo)",
+        "model": "爱国者HQ750白牌电源",
+        "price": 259,
+        "specs": {
+            "wattage": 750,
+            "efficiency": "80 Plus White",
+            "form_factor": "ATX",
+            "modular": "非模组化",
+            "fan": {
+                "size": 120,
+                "bearing": "流体轴承",
+                "control": "不支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 4,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 1.8,
+            "cable_length": null,
+            "review": {
+                "performance": "白牌效率，适合一般中高功率系统，支持温控",
+                "noise": "风扇启停不支持，噪音一般",
+                "cables": "非模组化，需要合理理线",
+                "build_quality": "用料一般，符合ATX规范",
+                "value": "750W白牌直出电源，性价比中等"
+            }
+        }
+    },
+    {
+        "name": "华硕PRIME850W金牌全模黑白",
+        "category": "psu",
+        "brand": "华硕(ASUS)",
+        "model": "AP-850G",
+        "price": 1019,
+        "specs": {
+            "wattage": 850,
+            "efficiency": "80 Plus Gold",
+            "form_factor": "ATX",
+            "modular": "全模组化",
+            "fan": {
+                "size": 135,
+                "bearing": "流体轴承",
+                "control": "不支持风扇启停"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 5,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 2.98,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，电压稳定，适合高功率系统，支持温控",
+                "noise": "风扇启停不支持，低负载噪音适中",
+                "cables": "全模组化，理线方便",
+                "build_quality": "用料扎实，符合ATX规范",
+                "value": "850W高功率金牌全模组电源，适合中高端系统"
+            }
+        }
+    },
+    {
+        "name": "鑫谷GM650W-SFX金牌全模黑",
+        "category": "psu",
+        "brand": "鑫谷(segotep)",
+        "model": "GM650W-SFX黑色电源",
+        "price": 479,
+        "specs": {
+            "wattage": 650,
+            "efficiency": "80 Plus Gold",
+            "form_factor": "SFX",
+            "modular": "全模组化",
+            "fan": {
+                "size": 80,
+                "bearing": "流体轴承",
+                "control": "支持温控"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": null,
+                "pcie": null,
+                "sata": 4,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": null,
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": 1.8,
+            "cable_length": null,
+            "review": {
+                "performance": "金牌效率，适合小型高性能系统，支持温控",
+                "noise": "风扇噪音低，温控调节良好",
+                "cables": "全模组化，理线方便",
+                "build_quality": "小型SFX用料扎实，适合紧凑机箱",
+                "value": "650W SFX金牌全模组电源，适合高端小型系统"
+            }
+        }
+    },
+    {
+        "name": "先马XP850W悟空版白金全模 黑",
+        "category": "psu",
+        "brand": "先马(SAMA)",
+        "model": "XP850G(黑色)",
+        "price": 439,
+        "specs": {
+            "wattage": 850,
+            "efficiency": "80 Plus Platinum",
+            "form_factor": "ATX",
+            "modular": "全模组化",
+            "fan": {
+                "size": 140,
+                "bearing": "流体轴承",
+                "control": "支持温控"
+            },
+            "protections": [
+                "过功率保护(OPP)",
+                "过电压保护(OVP)",
+                "短路保护(SCP)",
+                "过温保护(OTP)",
+                "欠电压保护(UVP)",
+                "过电流保护(OCP)"
+            ],
+            "connectors": {
+                "motherboard": "20+4 pin",
+                "cpu": "2x 4+4-pin",
+                "pcie": null,
+                "sata": 6,
+                "peripheral": null
+            },
+            "input_voltage": "100-240V",
+            "input_frequency": "50-60Hz",
+            "pfc": "主动式PFC",
+            "temperature_control": "支持温控",
+            "dimensions": null,
+            "weight": null,
+            "cable_length": null,
+            "review": {
+                "performance": "白金牌效率，适合高功率系统，支持温控",
+                "noise": "风扇尺寸大，低负载噪音低",
+                "cables": "全模组化，理线方便",
+                "build_quality": "用料扎实，符合ATX规范",
+                "value": "850W白金全模组电源，适合高端系统"
+            }
+        }
+    }
+]

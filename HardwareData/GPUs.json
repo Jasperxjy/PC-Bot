@@ -1,0 +1,631 @@
+[
+    {
+        "name": "七彩虹 RTX 5070 Ultra WOC 12GB",
+        "category": "gpu",
+        "brand": "Colorful",
+        "model": "RTX5070-Ultra-WOC-12G",
+        "price": 5149.0,
+        "specs": {
+            "chip": "RTX 5070",
+            "architecture": "NVIDIA Ada Lovelace",
+            "cuda_cores": null,
+            "memory": {
+                "size": 12,
+                "type": "GDDR7",
+                "bus_width": 192,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": 2325,
+                "boost": 2512
+            },
+            "power_consumption": null,
+            "recommended_psu": 750,
+            "ray_tracing": true,
+            "dlss": 3,
+            "frame_generation": true,
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1b",
+                "hdmi_version": "2.1b"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "支持智能启停",
+                "bios": "双BIOS"
+            },
+            "dimensions": {
+                "length": 314,
+                "width": 135.2,
+                "height": 50.4,
+                "slots": 2.5
+            },
+            "rgb": true,
+            "power_connector": "1x 16-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "预计具备强劲的2K和部分4K游戏性能，光追和DLSS表现优异",
+                "thermals": "三风扇设计，散热能力较强",
+                "noise": "低负载风扇启停，满载噪音中等可控",
+                "power_efficiency": "能效比高于上一代，但功耗需求较大"
+            }
+        }
+    },
+    {
+        "name": "技嘉 RTX 5060 Gaming OC 8GB 魔鹰",
+        "category": "gpu",
+        "brand": "Gigabyte",
+        "model": "RTX5060-Gaming-OC-8G",
+        "price": 2749,
+        "specs": {
+            "chip": "RTX 5060",
+            "architecture": "NVIDIA Ada Lovelace",
+            "cuda_cores": null,
+            "memory": {
+                "size": 8,
+                "type": "GDDR7",
+                "bus_width": 128,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": 2497,
+                "boost": 2595
+            },
+            "power_consumption": null,
+            "recommended_psu": 500,
+            "ray_tracing": true,
+            "dlss": 3,
+            "frame_generation": true,
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "支持智能启停",
+                "bios": null
+            },
+            "dimensions": {
+                "length": 281,
+                "width": 119,
+                "height": 40,
+                "slots": 2
+            },
+            "rgb": true,
+            "power_connector": "1x 8-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "预计拥有主流1080p与2K分辨率下的优秀表现，DLSS 4加持",
+                "thermals": "三风扇散热方案，温度控制良好",
+                "noise": "低负载下安静，满载风扇噪音中等",
+                "power_efficiency": "功耗适中，能效比表现良好"
+            }
+        }
+    },
+    {
+        "name": "微星 RTX 5060 GAMING X OC 8GB 魔龙",
+        "category": "gpu",
+        "brand": "MSI",
+        "model": "RTX5060-GAMING-X-OC-8G",
+        "price": null,
+        "specs": {
+            "chip": "RTX 5060",
+            "architecture": "NVIDIA Ada Lovelace",
+            "cuda_cores": null,
+            "memory": {
+                "size": 8,
+                "type": "GDDR7",
+                "bus_width": 128,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 550,
+            "ray_tracing": true,
+            "dlss": 3,
+            "frame_generation": true,
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 2,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "支持智能启停",
+                "bios": null
+            },
+            "dimensions": {
+                "length": 248,
+                "width": null,
+                "height": null,
+                "slots": 2
+            },
+            "rgb": true,
+            "power_connector": "1x 8-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "预计在1080p和部分2K分辨率下性能优异，支持DLSS 3与光追",
+                "thermals": "双风扇设计，散热能力良好，适合中高负载",
+                "noise": "低负载下静音，满载时噪音可控",
+                "power_efficiency": "功耗适中，能效表现稳定"
+            }
+        }
+    },
+    {
+        "name": "微星 RTX 5060 Ti GAMING TRIO OC WHITE 白魔龙",
+        "category": "gpu",
+        "brand": "MSI",
+        "model": "RTX5060Ti-GAMING-TRIO-OC-WHITE-8G",
+        "price": null,
+        "specs": {
+            "chip": "RTX 5060 Ti",
+            "architecture": "NVIDIA Ada Lovelace",
+            "cuda_cores": null,
+            "memory": {
+                "size": 8,
+                "type": "GDDR7",
+                "bus_width": 128,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 600,
+            "ray_tracing": true,
+            "dlss": 3,
+            "frame_generation": true,
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "支持智能启停",
+                "bios": null
+            },
+            "dimensions": {
+                "length": 300,
+                "width": null,
+                "height": null,
+                "slots": 2.5
+            },
+            "rgb": true,
+            "power_connector": "1x 16-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "预计在2K分辨率下有更优表现，支持DLSS 3与光追，适合中高端游戏玩家",
+                "thermals": "三风扇TRIO散热设计，散热能力强劲",
+                "noise": "低负载风扇停转，满载时噪音可控",
+                "power_efficiency": "功耗较5060稍高，但能效比依然优异"
+            }
+        }
+    },
+    {
+        "name": "七彩虹 RTX 5080 Ultra W OC 16GB",
+        "category": "gpu",
+        "brand": "Colorful",
+        "model": "RTX5080-Ultra-W-OC-16G",
+        "price": null,
+        "specs": {
+            "chip": "RTX 5080",
+            "architecture": "NVIDIA Ada Lovelace-Next",
+            "cuda_cores": null,
+            "memory": {
+                "size": 16,
+                "type": "GDDR7",
+                "bus_width": 256,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": 2295,
+                "boost": 2617,
+                "oc_boost": 2655
+            },
+            "power_consumption": null,
+            "recommended_psu": null,
+            "ray_tracing": true,
+            "dlss": 3,
+            "frame_generation": true,
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1b",
+                "hdmi_version": "2.1b"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "支持智能启停",
+                "bios": "一键超频"
+            },
+            "dimensions": {
+                "length": 344.6,
+                "width": 154.5,
+                "height": 60,
+                "slots": 3
+            },
+            "rgb": true,
+            "power_connector": "1x 16-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "预计在2K与4K分辨率下均有旗舰级表现，光追与DLSS 4表现极佳",
+                "thermals": "三风扇超大散热器设计，适合高功耗长时间运行",
+                "noise": "低负载静音，满载时风扇噪音在可接受范围",
+                "power_efficiency": "能效比相较50系中端显卡略低，但整体性能更强"
+            }
+        }
+    },
+    {
+        "name": "华硕 ROG ASTRAL RTX 5090 OC 32GB 水神",
+        "category": "gpu",
+        "brand": "ASUS",
+        "model": "ROG-ASTRAL-RTX5090-OC-32G",
+        "price": null,
+        "specs": {
+            "chip": "RTX 5090",
+            "architecture": "NVIDIA Ada Lovelace-Next",
+            "process": "TSMC 4nm",
+            "cuda_cores": 21760,
+            "memory": {
+                "size": 32,
+                "type": "GDDR7",
+                "bus_width": 512,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null,
+                "oc_boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 1000,
+            "ray_tracing": true,
+            "dlss": 4,
+            "frame_generation": true,
+            "interface": "PCIe 5.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": "360大面积散热模组",
+                "liquid_cooling": "ROG ASTRAL LC 一体式水冷",
+                "fan_control": "智能启停",
+                "bios": "OC 模式"
+            },
+            "dimensions": {
+                "length": 290,
+                "width": null,
+                "height": null,
+                "slots": 3.5
+            },
+            "rgb": true,
+            "rgb_type": "ARGB",
+            "power_connector": "1x 12VHPWR (PCIe 5.0)",
+            "ai_performance": {
+                "tops": 3593,
+                "max_resolution": "7680x4320",
+                "multi_monitor": 4
+            },
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "dlss_performance": null
+            },
+            "review": {
+                "performance": "满血旗舰，顶级4K与8K游戏性能，AI算力极为强大",
+                "thermals": "360大面积水冷与三风扇混合散热，温度控制优异",
+                "noise": "水冷加持，满载噪音显著低于传统风冷",
+                "power_efficiency": "高功耗旗舰，但能效表现领先同级别产品"
+            }
+        }
+    },
+    {
+        "name": "华硕 ATS RX 7650 GRE O8G 巨齿鲨",
+        "category": "gpu",
+        "brand": "ASUS",
+        "model": "RX7650GRE-O8G-ATS",
+        "price": null,
+        "specs": {
+            "chip": "RX 7650 GRE",
+            "architecture": "AMD RDNA3",
+            "process": "TSMC 6nm",
+            "stream_processors": null,
+            "memory": {
+                "size": 8,
+                "type": "GDDR6",
+                "bus_width": 128,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 600,
+            "ray_tracing": true,
+            "fsr": true,
+            "frame_generation": "FSR 3",
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "智能启停",
+                "bios": null
+            },
+            "dimensions": {
+                "length": 269,
+                "width": null,
+                "height": null,
+                "slots": 2.5
+            },
+            "rgb": false,
+            "power_connector": "1x 8-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "fsr_performance": null
+            },
+            "review": {
+                "performance": "主流级显卡，1080p与部分2K游戏性能良好，支持光追与FSR",
+                "thermals": "三风扇散热，温度控制稳定",
+                "noise": "低负载安静，满载时噪音适中",
+                "power_efficiency": "功耗适中，能效表现良好"
+            }
+        }
+    },
+    {
+        "name": "盈通 RX 9070 XT OC 16G 樱瞳花嫁",
+        "category": "gpu",
+        "brand": "Yeston",
+        "model": "RX9070XT-OC-16G-SakuraBride",
+        "price": null,
+        "specs": {
+            "chip": "RX 9070 XT",
+            "architecture": "AMD RDNA3",
+            "process": "TSMC 5nm",
+            "stream_processors": null,
+            "memory": {
+                "size": 16,
+                "type": "GDDR6",
+                "bus_width": 256,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null,
+                "oc_boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 850,
+            "ray_tracing": true,
+            "fsr": true,
+            "frame_generation": "FSR 3",
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "智能启停",
+                "bios": "OC 模式"
+            },
+            "dimensions": {
+                "length": 330,
+                "width": null,
+                "height": null,
+                "slots": 3
+            },
+            "rgb": true,
+            "rgb_type": "ARGB",
+            "power_connector": "3x 8-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "fsr_performance": null
+            },
+            "review": {
+                "performance": "高端显卡，预计在2K与4K分辨率下拥有强劲表现，支持光追与FSR 3",
+                "thermals": "三风扇大面积散热，适合高负载场景",
+                "noise": "低负载安静，满载时风扇噪音可控",
+                "power_efficiency": "高功耗设计，但整体性能强劲，适合发烧级用户"
+            }
+        }
+    },
+    {
+        "name": "技嘉 RX 7700 XT GAMING OC 12GB 魔鹰",
+        "category": "gpu",
+        "brand": "Gigabyte",
+        "model": "GV-R77XTGAMING-OC-12GD",
+        "price": null,
+        "specs": {
+            "chip": "RX 7700 XT",
+            "architecture": "AMD RDNA3",
+            "process": "TSMC 5nm",
+            "stream_processors": null,
+            "memory": {
+                "size": 12,
+                "type": "GDDR6",
+                "bus_width": 192,
+                "speed": null
+            },
+            "clock_speed": {
+                "base": null,
+                "boost": null,
+                "oc_boost": null
+            },
+            "power_consumption": null,
+            "recommended_psu": 700,
+            "ray_tracing": true,
+            "fsr": true,
+            "frame_generation": "FSR 3",
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 3,
+                "hdmi": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": null,
+                "heatsink": null,
+                "fan_control": "智能启停",
+                "bios": "OC 模式"
+            },
+            "dimensions": {
+                "length": 302,
+                "width": null,
+                "height": null,
+                "slots": 2.5
+            },
+            "rgb": true,
+            "power_connector": "2x 8-pin",
+            "benchmarks": {
+                "timespy": null,
+                "firestrike": null,
+                "port_royal": null,
+                "fsr_performance": null
+            },
+            "review": {
+                "performance": "主流高端显卡，适合2K分辨率高画质游戏，支持FSR 3与光追",
+                "thermals": "三风扇散热设计，温度表现良好",
+                "noise": "低负载下安静，满载时噪音适中",
+                "power_efficiency": "功耗适中，能效比符合RDNA3一贯水准"
+            }
+        }
+    },
+    {
+        "name": "蓝宝石 RX 7900 XTX 24G 超白金",
+        "category": "gpu",
+        "brand": "Sapphire",
+        "model": "RX 7900 XTX Nitro+ 24G",
+        "price": null,
+        "specs": {
+            "chip": "RX 7900 XTX",
+            "architecture": "AMD RDNA3",
+            "process": "TSMC 5nm + 6nm (MCM设计)",
+            "stream_processors": 6144,
+            "memory": {
+                "size": 24,
+                "type": "GDDR6",
+                "bus_width": 384,
+                "speed": "20 Gbps"
+            },
+            "clock_speed": {
+                "base": 2300,
+                "boost": 2615,
+                "oc_boost": 2680
+            },
+            "power_consumption": 355,
+            "recommended_psu": 850,
+            "ray_tracing": true,
+            "fsr": true,
+            "frame_generation": "FSR 3",
+            "interface": "PCIe 4.0 x16",
+            "outputs": {
+                "displayport": 2,
+                "hdmi": 2,
+                "usb_c": 1,
+                "dp_version": "2.1",
+                "hdmi_version": "2.1"
+            },
+            "cooling": {
+                "fans": 3,
+                "heatpipes": "大面积鳍片 + 镀镍铜底座",
+                "heatsink": "铝制散热鳍片组",
+                "fan_control": "智能启停 + 双BIOS模式",
+                "bios": "Performance / Silent 模式"
+            },
+            "dimensions": {
+                "length": 320,
+                "width": 135,
+                "height": 60,
+                "slots": 3.5
+            },
+            "rgb": true,
+            "power_connector": "3x 8-pin",
+            "benchmarks": {
+                "timespy": 31000,
+                "firestrike": 73000,
+                "port_royal": 17000,
+                "fsr_performance": "4K下FSR 3性能大幅提升"
+            },
+            "review": {
+                "performance": "旗舰级显卡，4K分辨率高画质游戏流畅，部分游戏可挑战8K",
+                "thermals": "三风扇 + 大面积散热模组，温度控制良好",
+                "noise": "在Silent模式下安静，满载时风扇声音可接受",
+                "power_efficiency": "功耗高但能效比领先上一代RDNA2"
+            }
+        }
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "name": "金百达 DDR4 3600 32GB(16GBX2) 台式机内存 银爵",
+        "category": "ram",
+        "brand": "KINGBANK",
+        "model": "银爵 C18",
+        "price": 337.0,
+        "specs": {
+            "generation": "DDR4",
+            "speed": 3600,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL18",
+            "voltage": "1.35V (典型DDR4电压)",
+            "heatspreader": true,
+            "heatspreader_color": "银色",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 51000,
+                "write_speed": 49000,
+                "copy_speed": 50000,
+                "latency": 82.5
+            },
+            "review": {
+                "compatibility": "兼容主流Intel和AMD平台",
+                "overclocking": "支持XMP超频至3600MHz，部分型号可稳定超频至3733MHz",
+                "stability": "采用海力士CJR/DJR颗粒，运行稳定可靠",
+                "aesthetics": "银色金属散热马甲，简约设计适合无光污染装机"
+            }
+        }
+    },
+    {
+        "name": "宏碁掠夺者 32G(16G×2) 6000 RGB C30 炫光星舰 星光银",
+        "category": "ram",
+        "brand": "PREDATOR",
+        "model": "BL.9BWWR.366",
+        "price": 709.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6000,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL30",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "星光银",
+            "rgb": true,
+            "benchmarks": {
+                "read_speed": 88000,
+                "write_speed": 82000,
+                "copy_speed": 85000,
+                "latency": 68.5
+            },
+            "review": {
+                "compatibility": "完美兼容Intel XMP 3.0和AMD EXPO平台",
+                "overclocking": "精选颗粒，支持一键超频至6000MHz，具备优秀超频潜力",
+                "stability": "严选颗粒，10层PCB设计，运行极其稳定",
+                "aesthetics": "炫光RGB灯效，支持主流主板灯效同步，星光银散热马甲质感出众"
+            }
+        }
+    },
+    {
+        "name": "金百达 32G(16Gx2) 6000 A-die C28 RGB 黑刃",
+        "category": "ram",
+        "brand": "KINGBANK",
+        "model": "黑刃 C28",
+        "price": 959.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6000,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL28",
+            "voltage": "1.45V",
+            "heatspreader": true,
+            "heatspreader_color": "黑色",
+            "rgb": true,
+            "benchmarks": {
+                "read_speed": 92000,
+                "write_speed": 86000,
+                "copy_speed": 89000,
+                "latency": 62.5
+            },
+            "review": {
+                "compatibility": "兼容Intel XMP 3.0和AMD EXPO平台，支持主流主板",
+                "overclocking": "采用特挑A-die颗粒，超频潜力出色，可稳定超频至更高频率",
+                "stability": "精选A-die颗粒，10层PCB设计，运行稳定可靠",
+                "aesthetics": "黑色铝合金散热马甲搭配RGB灯效，支持主板灯效同步，电竞感十足"
+            }
+        }
+    },
+    {
+        "name": "宏碁掠夺者 32G(16G×2) D4 3600 C18 凌霜黑",
+        "category": "ram",
+        "brand": "PREDATOR",
+        "model": "凌霜黑 CJR",
+        "price": 519,
+        "specs": {
+            "generation": "DDR4",
+            "speed": 3600,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL18",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "黑色",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 52000,
+                "write_speed": 49500,
+                "copy_speed": 50800,
+                "latency": 81.5
+            },
+            "review": {
+                "compatibility": "完美兼容Intel和AMD主流平台，支持XMP 2.0一键超频",
+                "overclocking": "采用海力士CJR颗粒，超频潜力优秀，可稳定超频至4000MHz+",
+                "stability": "严选CJR颗粒，10层PCB设计，运行极其稳定可靠",
+                "aesthetics": "凌霜黑金属散热马甲，简约硬朗设计，适合无光污染高性能装机"
+            }
+        }
+    },
+    {
+        "name": "威刚 32G(16GX2) 6000 M-die C30 威龙 D300 黑",
+        "category": "ram",
+        "brand": "ADATA",
+        "model": "D300",
+        "price": 869.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6000,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL30",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "黑色",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 88000,
+                "write_speed": 82000,
+                "copy_speed": 85000,
+                "latency": 68.5
+            },
+            "review": {
+                "compatibility": "兼容Intel XMP 3.0和AMD EXPO平台，支持主流主板",
+                "overclocking": "采用M-die颗粒，超频性能稳定，可满足日常超频需求",
+                "stability": "精选颗粒，运行稳定可靠，兼容性良好",
+                "aesthetics": "黑色金属散热马甲，简约设计，适合无光污染装机"
+            }
+        }
+    },
+    {
+        "name": "芝奇皇家戟 96G(48x2) DDR5 6400 RGB C32 银",
+        "category": "ram",
+        "brand": "G.SKILL",
+        "model": "F5-6400J3239F48GX2-TR5S",
+        "price": 3388.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6400,
+            "capacity": 96,
+            "modules": 2,
+            "timing": "CL32",
+            "voltage": "1.4V",
+            "heatspreader": true,
+            "heatspreader_color": "银色",
+            "rgb": true,
+            "benchmarks": {
+                "read_speed": 95000,
+                "write_speed": 89000,
+                "copy_speed": 92000,
+                "latency": 65.5
+            },
+            "review": {
+                "compatibility": "完美兼容Intel XMP 3.0和AMD EXPO高端平台",
+                "overclocking": "精选特挑颗粒，具备优秀超频潜力，可稳定运行在6400MHz及以上频率",
+                "stability": "严选高品质颗粒，运行极其稳定，适合高端工作站和游戏平台",
+                "aesthetics": "奢华水晶RGB灯效，银色金属散热马甲，支持主流主板灯效同步"
+            }
+        }
+    },
+    {
+        "name": "七彩虹 32GB(16×2) DDR4 3200 战斧马甲 冰雪白 C18",
+        "category": "ram",
+        "brand": "Colorful",
+        "model": "战斧 C18",
+        "price": 426.0,
+        "specs": {
+            "generation": "DDR4",
+            "speed": 3200,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL18",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "冰雪白",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 48000,
+                "write_speed": 46000,
+                "copy_speed": 47000,
+                "latency": 85.5
+            },
+            "review": {
+                "compatibility": "兼容主流Intel和AMD平台，支持XMP 2.0一键超频",
+                "overclocking": "支持超频至3333MHz，满足基本超频需求",
+                "stability": "运行稳定可靠，兼容性良好",
+                "aesthetics": "冰雪白金属散热马甲，简约清新设计，适合白色主题装机"
+            }
+        }
+    },
+    {
+        "name": "美商海盗船 32GB(16x2) DDR5 6000 复仇者系列 C36",
+        "category": "ram",
+        "brand": "USCORSAIR",
+        "model": "复仇者 C36",
+        "price": 769.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6000,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL36",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "黑色",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 85000,
+                "write_speed": 79000,
+                "copy_speed": 82000,
+                "latency": 72.5
+            },
+            "review": {
+                "compatibility": "兼容Intel XMP 3.0和AMD EXPO平台，支持主流主板",
+                "overclocking": "稳定运行在标称频率，满足基本性能需求",
+                "stability": "运行稳定可靠，兼容性良好，经严格测试",
+                "aesthetics": "经典黑色散热马甲，低调简约设计，适合无光污染装机"
+            }
+        }
+    },
+    {
+        "name": "威刚 32G(16GX2) 6000 M-die C30 XPG威龙D300 白",
+        "category": "ram",
+        "brand": "ADATA",
+        "model": "XPG D300",
+        "price": 869.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6000,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL30",
+            "voltage": "1.35V",
+            "heatspreader": true,
+            "heatspreader_color": "白色",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 88000,
+                "write_speed": 82000,
+                "copy_speed": 85000,
+                "latency": 68.5
+            },
+            "review": {
+                "compatibility": "兼容Intel XMP 3.0和AMD EXPO平台，支持主流主板",
+                "overclocking": "采用M-die颗粒，超频性能稳定，可满足日常超频需求",
+                "stability": "精选颗粒，运行稳定可靠，兼容性良好",
+                "aesthetics": "白色金属散热马甲，简约时尚设计，适合白色主题无光污染装机"
+            }
+        }
+    },
+    {
+        "name": "宏碁 32G(16×2) D5 6400 冰刀 C36 冰刃银",
+        "category": "ram",
+        "brand": "acer",
+        "model": "BL.9BWWA.462",
+        "price": 659.0,
+        "specs": {
+            "generation": "DDR5",
+            "speed": 6400,
+            "capacity": 32,
+            "modules": 2,
+            "timing": "CL36",
+            "voltage": "1.4V",
+            "heatspreader": true,
+            "heatspreader_color": "冰刃银",
+            "rgb": false,
+            "benchmarks": {
+                "read_speed": 92000,
+                "write_speed": 86000,
+                "copy_speed": 89000,
+                "latency": 70.5
+            },
+            "review": {
+                "compatibility": "兼容Intel XMP 3.0和AMD EXPO平台，支持主流主板",
+                "overclocking": "支持一键超频至6400MHz，高频稳定性良好",
+                "stability": "运行稳定可靠，经过严格测试，兼容性优秀",
+                "aesthetics": "冰刃银金属散热马甲，冰刀造型设计，简约时尚，适合无光污染高性能装机"
+            }
+        }
+    }
+]

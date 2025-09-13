@@ -1,0 +1,619 @@
+[
+    {
+        "name": "先马小惊鸿屏显版白色海景房机箱",
+        "category": "case",
+        "brand": "SAMA",
+        "model": "小惊鸿屏显版（白）",
+        "price": 179,
+        "specs": {
+            "type": "小型机箱",
+            "style": "带屏海景房",
+            "material": "钢化玻璃+SPCC钢材",
+            "color": "白色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX"
+            ],
+            "dimensions": {
+                "length": 463,
+                "width": 222,
+                "height": 415
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 2,
+                "3.5": 0,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "不适用",
+                "side": "2x120mm",
+                "bottom": "3x120mm或2x140mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "front": "不适用",
+                "top": "240mm,280mm,360mm",
+                "bottom": "不适用",
+                "rear": "不适用"
+            },
+            "gpu_max_length": 410,
+            "cpu_cooler_max_height": 175,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3.0": 1,
+                "usb2.0": 1,
+                "Type-C": 1
+            },
+            "features": [
+                "屏显设计",
+                "异形海景房",
+                "钢化玻璃面板"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持MATX和ITX主板，显卡限长41cm以内"
+            }
+        }
+    },
+    {
+        "name": "乔思伯D200无立柱曲面海景房黑色",
+        "category": "case",
+        "brand": "JONSBO",
+        "model": "D200",
+        "price": 319,
+        "specs": {
+            "type": "小型机箱",
+            "style": "带屏/玻璃侧透/曲面海景房",
+            "material": "钢+钢化玻璃",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX"
+            ],
+            "dimensions": {
+                "length": 437,
+                "width": 216,
+                "height": 419
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 1,
+                "3.5": 1,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "不适用",
+                "side": "不适用",
+                "bottom": "3x120mm或2x140mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "front": "不适用",
+                "top": "240mm",
+                "bottom": "不适用",
+                "rear": "不适用"
+            },
+            "gpu_max_length": 410,
+            "cpu_cooler_max_height": 171,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3.0": 2,
+                "Type-C": 1
+            },
+            "features": [
+                "曲面玻璃设计",
+                "侧透玻璃",
+                "带屏设计",
+                "海景房风格"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持MATX和ITX主板，显卡限长41cm以内"
+            }
+        }
+    },
+    {
+        "name": "金河田平行世界海景房机箱白色",
+        "category": "case",
+        "brand": "Golden Field",
+        "model": "平行世界",
+        "price": 279.0,
+        "specs": {
+            "type": "中型机箱",
+            "style": "玻璃侧透海景房",
+            "material": "钢化玻璃+SPCC钢材",
+            "color": "白色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX",
+                "ATX"
+            ],
+            "dimensions": {
+                "length": 445,
+                "width": 235,
+                "height": 490
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 3,
+                "3.5": 2,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "不适用",
+                "side": "3x120mm或2x140mm",
+                "bottom": "3x120mm或2x140mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "top": "360/240mm",
+                "front": "360/240mm",
+                "side": "不适用",
+                "bottom": "不适用",
+                "rear": "不适用"
+            },
+            "gpu_max_length": 430,
+            "cpu_cooler_max_height": 172,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 2,
+                "usb3_2_gen2_type_c": 1
+            },
+            "features": [
+                "玻璃侧透设计",
+                "海景房风格",
+                "支持顶部360水冷",
+                "Type-C 10Gbps接口"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持ATX/MATX/ITX主板，显卡限长430mm，CPU散热器限高172mm"
+            }
+        }
+    },
+    {
+        "name": "鑫谷卓灵1白色机箱",
+        "category": "case",
+        "brand": "Segotep",
+        "model": "卓灵1",
+        "price": 115.0,
+        "specs": {
+            "type": "小型机箱",
+            "style": "玻璃侧透",
+            "material": "ABS塑料+钢化玻璃+SPCC钢材",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX"
+            ],
+            "dimensions": {
+                "length": 350,
+                "width": 200,
+                "height": 375
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 1,
+                "3.5": 1,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "2x140mm",
+                "side": "不适用",
+                "bottom": "不适用",
+                "top": "2x120mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "top": "240mm",
+                "front": "不适用",
+                "bottom": "不适用",
+                "rear": "不适用"
+            },
+            "gpu_max_length": 345,
+            "cpu_cooler_max_height": 160,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 1,
+                "usb2_0": 2
+            },
+            "features": [
+                "玻璃侧透设计",
+                "小型机箱",
+                "支持顶部240水冷"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持MATX/ITX主板，显卡限长345mm，CPU散热器限高160mm"
+            }
+        }
+    },
+    {
+        "name": "长城冰霜X3黑",
+        "category": "case",
+        "brand": "Great Wall",
+        "model": "冰霜X3",
+        "price": 150.0,
+        "specs": {
+            "type": "小型机箱",
+            "style": "玻璃侧透",
+            "material": "ABS塑料+SPCC钢材",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX"
+            ],
+            "dimensions": {
+                "length": 455,
+                "width": 210,
+                "height": 450
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 2,
+                "3.5": 2,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "3x120mm或2x140mm",
+                "side": "不适用",
+                "bottom": "2x120mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "top": "360/280mm",
+                "rear": "120mm",
+                "front": "不适用",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 400,
+            "cpu_cooler_max_height": 160,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 1,
+                "usb2_0": 2
+            },
+            "features": [
+                "玻璃侧透设计",
+                "支持顶部360/280水冷",
+                "支持后置120水冷",
+                "小型机箱设计"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持MATX/ITX主板，显卡限长400mm，CPU散热器限高160mm"
+            }
+        }
+    },
+    {
+        "name": "追风者XTM3小旋风黑色侧透小机箱",
+        "category": "case",
+        "brand": "Phanteks",
+        "model": "PH-XT325M_BK01_C",
+        "price": 199.0,
+        "specs": {
+            "type": "中型机箱",
+            "style": "玻璃侧透",
+            "material": "钢化玻璃+SGCC钢材+ABS塑料",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX"
+            ],
+            "dimensions": {
+                "length": 445,
+                "width": 235,
+                "height": 372
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 2,
+                "3.5": 1,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "2x140mm",
+                "side": "不适用",
+                "bottom": "不适用",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm"
+            },
+            "radiator_support": {
+                "top": "360/240mm",
+                "rear": "120mm",
+                "front": "不适用",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 425,
+            "cpu_cooler_max_height": 175,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 1,
+                "usb3_2_gen2_type_c": 1
+            },
+            "features": [
+                "玻璃侧透设计",
+                "支持顶部360/240水冷",
+                "支持后置120水冷",
+                "Type-C 20Gbps接口"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持MATX/ITX主板，显卡限长425mm，CPU散热器限高175mm"
+            }
+        }
+    },
+    {
+        "name": "爱国者 T21 白",
+        "category": "case",
+        "brand": "aigo",
+        "model": "T21 白色",
+        "price": 139.0,
+        "specs": {
+            "type": "中型机箱",
+            "style": "玻璃侧透",
+            "material": "SPCC钢材",
+            "color": "白色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX",
+                "ATX"
+            ],
+            "dimensions": {
+                "length": 408,
+                "width": 230,
+                "height": 460
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 1,
+                "3.5": 1,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "2x140mm或3x120mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm或1x140mm",
+                "side": "不适用",
+                "bottom": "2x120mm"
+            },
+            "radiator_support": {
+                "front": "360/280mm",
+                "top": "360/280mm",
+                "rear": "不适用",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 355,
+            "cpu_cooler_max_height": 180,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 1,
+                "usb2_0": 1
+            },
+            "features": [
+                "玻璃侧透设计",
+                "支持前置360水冷",
+                "紧凑型中塔机箱"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持ATX/MATX/ITX主板，显卡限长355mm，CPU散热器限高180mm"
+            }
+        }
+    },
+    {
+        "name": "金河田简誉青曜LITE360水冷位",
+        "category": "case",
+        "brand": "Golden Field",
+        "model": "青曜LITE",
+        "price": 179.0,
+        "specs": {
+            "type": "中型机箱",
+            "style": "玻璃侧透",
+            "material": "SPCC钢材+钢化玻璃",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX",
+                "ATX"
+            ],
+            "dimensions": {
+                "length": 471,
+                "width": 220,
+                "height": 459
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 1,
+                "3.5": 2,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "3x140mm或3x120mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm或1x140mm",
+                "side": "不适用",
+                "bottom": "3x120mm"
+            },
+            "radiator_support": {
+                "front": "360/240mm",
+                "top": "不适用",
+                "rear": "不适用",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 420,
+            "cpu_cooler_max_height": 174,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 1,
+                "usb2_0": 1,
+                "usb3_2_gen2_type_c": 1
+            },
+            "features": [
+                "玻璃侧透设计",
+                "支持前置/顶部360水冷",
+                "Type-C 10Gbps接口",
+                "12风扇位设计"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持ATX/MATX/ITX主板，显卡限长420mm，CPU散热器限高174mm"
+            }
+        }
+    },
+    {
+        "name": "先马小黑洞PRO黑",
+        "category": "case",
+        "brand": "SAMA",
+        "model": "小黑洞PRO(黑)",
+        "price": 208.0,
+        "specs": {
+            "type": "小型机箱",
+            "style": "吸音降噪 / 异形设计",
+            "material": "SPCC钢材",
+            "color": "黑色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX",
+                "E-ATX"
+            ],
+            "dimensions": {
+                "length": 473,
+                "width": 230,
+                "height": 490
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 4,
+                "3.5": 3,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "3x120mm或2x140mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm",
+                "side": "不适用",
+                "bottom": "不适用"
+            },
+            "radiator_support": {
+                "front": "360/280/240mm",
+                "top": "240/120mm",
+                "rear": "120mm",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 390,
+            "cpu_cooler_max_height": 180,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 2,
+                "usb3_2_gen2_type_c": 1
+            },
+            "features": [
+                "吸音降噪设计",
+                "异形机箱造型",
+                "预装2个风扇",
+                "支持前置360水冷",
+                "Type-C 10Gbps接口"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持E-ATX/MATX/ITX主板，显卡限长390mm，CPU散热器限高180mm"
+            }
+        }
+    },
+    {
+        "name": "爱国者扶摇百里玻璃侧透台式机电脑主机箱白色",
+        "category": "case",
+        "brand": "aigo",
+        "model": "扶摇百里 白色",
+        "price": 279.0,
+        "specs": {
+            "type": "中型机箱",
+            "style": "玻璃侧透",
+            "material": "SPCC钢材",
+            "color": "白色",
+            "motherboard_support": [
+                "Mini-ITX",
+                "Micro-ATX",
+                "ATX"
+            ],
+            "dimensions": {
+                "length": 464,
+                "width": 238,
+                "height": 538
+            },
+            "expansion_slots": null,
+            "drive_bays": {
+                "2.5": 2,
+                "3.5": 2,
+                "optical": 0
+            },
+            "cooling_support": {
+                "front": "3x120mm或2x140mm",
+                "top": "3x120mm或2x140mm",
+                "rear": "1x120mm或1x140mm",
+                "side": "不适用",
+                "bottom": "3x120mm"
+            },
+            "radiator_support": {
+                "top": "360mm",
+                "front": "不适用",
+                "rear": "不适用",
+                "bottom": "不适用"
+            },
+            "gpu_max_length": 395,
+            "cpu_cooler_max_height": 175,
+            "psu_support": "标准ATX电源",
+            "front_io": {
+                "usb3_2_gen1": 2,
+                "usb3_2_gen2_type_c": 1
+            },
+            "features": [
+                "玻璃侧透设计",
+                "预装3个风扇",
+                "支持顶部360水冷",
+                "Type-C 10Gbps接口",
+                "10个风扇位设计"
+            ],
+            "review": {
+                "build_quality": null,
+                "cable_management": null,
+                "thermal_performance": null,
+                "aesthetics": null,
+                "compatibility": "支持ATX/MATX/ITX主板，显卡限长395mm，CPU散热器限高175mm"
+            }
+        }
+    }
+]

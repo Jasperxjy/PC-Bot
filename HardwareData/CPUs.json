@@ -1,0 +1,440 @@
+[
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "category": "cpu",
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X",
+        "price": 769.0,
+        "specs": {
+            "base_clock": 3.7,
+            "boost_clock": 4.6,
+            "core_count": 6,
+            "thread_count": 12,
+            "core_config": "6个Zen 3核心",
+            "cache": {
+                "l1": "384KB",
+                "l2": "3MB",
+                "l3": "32MB"
+            },
+            "socket": "AM4",
+            "process": "TSMC 7nm FinFET",
+            "tdp": 65,
+            "pcie_support": "PCIe 4.0",
+            "memory_support": "DDR4 3200MHz，支持更高频率超频",
+            "integrated_graphics": "无",
+            "cooler_included": "Wraith Stealth",
+            "motherboard_compatibility": [
+                "B550",
+                "X570"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 640,
+                "cpuz_multi_core": 4900,
+                "cinebench_r23_single": 1590,
+                "cinebench_r23_multi": 11800
+            },
+            "review": {
+                "performance": "单核性能强劲，游戏表现优异，多核性能足以应对生产力任务",
+                "stability": "平台成熟稳定，兼容性良好",
+                "thermals": "发热量适中，搭配原装风扇可满足日常使用",
+                "overclocking": "支持适度超频，性能有一定提升空间"
+            }
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 7500F",
+        "category": "cpu",
+        "brand": "AMD",
+        "model": "Ryzen 5 7500F",
+        "price": 949.0,
+        "specs": {
+            "base_clock": 3.7,
+            "boost_clock": 5.0,
+            "core_count": 6,
+            "thread_count": 12,
+            "core_config": "6个Zen 4核心",
+            "cache": {
+                "l1": "384KB",
+                "l2": "6MB",
+                "l3": "32MB"
+            },
+            "socket": "AM5",
+            "process": "TSMC 5nm FinFET",
+            "tdp": 65,
+            "pcie_support": "PCIe 5.0",
+            "memory_support": "DDR5 5200MHz（官方），支持更高频率超频",
+            "integrated_graphics": "无",
+            "cooler_included": "Wraith Stealth",
+            "motherboard_compatibility": [
+                "B650",
+                "X670"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 740,
+                "cpuz_multi_core": 5800,
+                "cinebench_r23_single": 1900,
+                "cinebench_r23_multi": 15000
+            },
+            "review": {
+                "performance": "单核性能非常强劲，适合游戏和日常应用，多核性能足以满足大多数生产力需求",
+                "stability": "AM5 平台新一代接口，兼容性良好，但需要 DDR5 内存",
+                "thermals": "功耗控制良好，原装散热器可满足日常使用，但高负载下建议更好散热",
+                "overclocking": "支持Precision Boost Overdrive，超频潜力中等"
+            }
+        }
+    },
+    {
+        "name": "Intel Core i5-14600KF",
+        "category": "cpu",
+        "brand": "Intel",
+        "model": "i5-14600KF",
+        "price": 1409.0,
+        "specs": {
+            "base_clock": 3.5,
+            "boost_clock": 5.3,
+            "core_count": 14,
+            "thread_count": 20,
+            "core_config": "6个性能核心 (P-Cores) + 8个能效核心 (E-Cores)",
+            "cache": {
+                "l1": "896KB",
+                "l2": "20MB",
+                "l3": "24MB"
+            },
+            "socket": "LGA 1700",
+            "process": "Intel 7 (10nm)",
+            "tdp": 125,
+            "pcie_support": "PCIe 5.0 & 4.0",
+            "memory_support": "DDR5 5600MHz, DDR4 3200MHz",
+            "integrated_graphics": "无 (KF版)",
+            "cooler_included": "不带散热器",
+            "motherboard_compatibility": [
+                "B760",
+                "Z790",
+                "Z690"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 850,
+                "cpuz_multi_core": 11500,
+                "cinebench_r23_single": 2050,
+                "cinebench_r23_multi": 24000
+            },
+            "review": {
+                "performance": "单核性能顶尖，游戏表现极佳，多核性能足以应对高负载生产力任务",
+                "stability": "兼容性优秀，适合搭配DDR5高频内存",
+                "thermals": "功耗较高，需高性能散热器保证稳定运行",
+                "overclocking": "支持超频，具有一定性能潜力"
+            }
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 9600X",
+        "category": "cpu",
+        "brand": "AMD",
+        "model": "Ryzen 5 9600X",
+        "price": 1449.0,
+        "specs": {
+            "base_clock": 3.9,
+            "boost_clock": 5.4,
+            "core_count": 6,
+            "thread_count": 12,
+            "core_config": "6个Zen 5核心",
+            "cache": {
+                "l1": "384 KB",
+                "l2": "6 MB",
+                "l3": "32 MB"
+            },
+            "socket": "AM5",
+            "process": "TSMC N4X (4 nm)",
+            "tdp": 65,
+            "pcie_support": "PCIe 5.0",
+            "memory_support": "DDR5-5600",
+            "integrated_graphics": "Radeon Graphics (核显)",
+            "cooler_included": "不带散热器",
+            "motherboard_compatibility": [
+                "B650",
+                "X670",
+                "X870",
+                "B650E",
+                "X670E",
+                "X870E"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": null,
+                "cpuz_multi_core": null,
+                "cinebench_r23_single": null,
+                "cinebench_r23_multi": null
+            },
+            "review": {
+                "performance": "单核与多核性能强劲，兼具低功耗与高效率",
+                "stability": "Zen 5 平台成熟稳定，兼容性良好",
+                "thermals": "功耗较低，但建议搭配高效散热器以支持更高频率运行",
+                "overclocking": "不锁倍频，支持 Precision Boost Overdrive，可适度超频"
+            }
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 9800X3D",
+        "category": "cpu",
+        "brand": "AMD",
+        "model": "Ryzen 7 9800X3D",
+        "price": 3699.0,
+        "specs": {
+            "base_clock": 4.2,
+            "boost_clock": 5.2,
+            "core_count": 8,
+            "thread_count": 16,
+            "core_config": "8个Zen 5架构核心",
+            "cache": {
+                "l1": "512KB",
+                "l2": "8MB",
+                "l3": "96MB"
+            },
+            "socket": "Socket AM5",
+            "process": "4nm",
+            "tdp": 120,
+            "pcie_support": "PCIe 5.0",
+            "memory_support": "DDR5 5200MHz",
+            "integrated_graphics": "AMD Radeon Graphics",
+            "cooler_included": "不带散热器",
+            "motherboard_compatibility": [
+                "B650",
+                "X670",
+                "X870",
+                "B650E",
+                "X670E",
+                "X870E"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 850,
+                "cpuz_multi_core": 9800,
+                "cinebench_r23_single": 2150,
+                "cinebench_r23_multi": 24500
+            },
+            "review": {
+                "performance": "革命性的3D V-Cache技术带来卓越游戏性能",
+                "stability": "AM5平台成熟稳定，兼容性良好",
+                "thermals": "建议搭配高性能散热器以发挥全部潜力",
+                "overclocking": "支持PBO Precision Boost Overdrive技术"
+            }
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "category": "cpu",
+        "brand": "AMD",
+        "model": "Ryzen 7 7800X3D",
+        "price": 2599.0,
+        "specs": {
+            "base_clock": 4.2,
+            "boost_clock": 5.0,
+            "core_count": 8,
+            "thread_count": 16,
+            "core_config": "8个Zen 4架构核心",
+            "cache": {
+                "l1": "512KB",
+                "l2": "8MB",
+                "l3": "96MB"
+            },
+            "socket": "Socket AM5",
+            "process": "5nm",
+            "tdp": 120,
+            "pcie_support": "PCIe 5.0",
+            "memory_support": "DDR5 5200MHz",
+            "integrated_graphics": "AMD Radeon Graphics (2核心)",
+            "cooler_included": "不带散热器",
+            "motherboard_compatibility": [
+                "B650",
+                "X670",
+                "X870",
+                "B650E",
+                "X670E",
+                "X870E"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 760,
+                "cpuz_multi_core": 7800,
+                "cinebench_r23_single": 1800,
+                "cinebench_r23_multi": 18000
+            },
+            "review": {
+                "performance": "革命性的3D V-Cache技术带来卓越游戏性能，游戏表现领先同级产品",
+                "stability": "AM5平台稳定，兼容性良好",
+                "thermals": "建议搭配高性能散热器，温度控制良好",
+                "overclocking": "支持PBO Precision Boost Overdrive技术，超频潜力一般但游戏性能卓越"
+            }
+        }
+    },
+    {
+        "name": "Intel Core i5-13400F",
+        "category": "cpu",
+        "brand": "Intel",
+        "model": "i5-13400F",
+        "price": 939.0,
+        "specs": {
+            "base_clock": 2.5,
+            "boost_clock": 4.6,
+            "core_count": 10,
+            "thread_count": 16,
+            "core_config": "6个性能核心+4个能效核心",
+            "cache": {
+                "l1": "384KB",
+                "l2": "9.5MB",
+                "l3": "20MB"
+            },
+            "socket": "LGA 1700",
+            "process": "Intel 7 (10nm)",
+            "tdp": 65,
+            "pcie_support": "PCIe 5.0 & 4.0",
+            "memory_support": "DDR5 4800MHz, DDR4 3200MHz",
+            "integrated_graphics": "无",
+            "cooler_included": "带散热器",
+            "compatible_motherboards": [
+                "B760",
+                "B660",
+                "H610"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 750,
+                "cpuz_multi_core": 6500,
+                "cinebench_r23_single": 1800,
+                "cinebench_r23_multi": 15000
+            },
+            "review": {
+                "performance": "游戏性能出色，生产力应用表现良好",
+                "stability": "运行稳定，无明显兼容性问题",
+                "thermals": "功耗控制优秀，原装散热器即可满足需求",
+                "overclocking": "锁频版本，超频潜力有限"
+            }
+        }
+    },
+    {
+        "name": "Intel Core i5-12600KF",
+        "category": "cpu",
+        "brand": "Intel",
+        "model": "i5-12600KF",
+        "price": 1099.0,
+        "specs": {
+            "base_clock": 2.8,
+            "boost_clock": 4.9,
+            "core_count": 10,
+            "thread_count": 16,
+            "core_config": "6个性能核心+4个能效核心",
+            "cache": {
+                "l1": "480KB",
+                "l2": "9.5MB",
+                "l3": "20MB"
+            },
+            "socket": "LGA 1700",
+            "process": "Intel 7 (10nm)",
+            "tdp": 125,
+            "pcie_support": "PCIe 5.0 & 4.0",
+            "memory_support": "DDR5 4800MHz, DDR4 3200MHz",
+            "integrated_graphics": "无",
+            "cooler_included": "不带散热器",
+            "compatible_motherboards": [
+                "B760",
+                "B660",
+                "Z690"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 720,
+                "cpuz_multi_core": 6800,
+                "cinebench_r23_single": 1750,
+                "cinebench_r23_multi": 15500
+            },
+            "review": {
+                "performance": "出色的游戏性能和多线程处理能力",
+                "stability": "运行稳定，需要搭配独立显卡使用",
+                "thermals": "建议配备性能良好的散热器",
+                "overclocking": "未锁频版本，具备不错的超频潜力"
+            }
+        }
+    },
+    {
+        "name": "Intel Core i7-14700KF",
+        "category": "cpu",
+        "brand": "Intel",
+        "model": "i7-14700KF",
+        "price": 2309.0,
+        "specs": {
+            "base_clock": 3.4,
+            "boost_clock": 5.6,
+            "core_count": 20,
+            "thread_count": 28,
+            "core_config": "8个性能核心+12个能效核心",
+            "cache": {
+                "l1": "1.1MB",
+                "l2": "28MB",
+                "l3": "33MB"
+            },
+            "socket": "LGA 1700",
+            "process": "Intel 7 (10nm)",
+            "tdp": 125,
+            "max_turbo_power": 253,
+            "pcie_support": "PCIe 5.0 & 4.0",
+            "memory_support": "DDR5 5600MHz, DDR4 3200MHz",
+            "integrated_graphics": "无",
+            "cooler_included": false,
+            "compatible_motherboards": [
+                "Z790",
+                "Z690",
+                "B760"
+            ],
+            "benchmarks": {
+                "cpuz_single_core": 900,
+                "cpuz_multi_core": 13500,
+                "cinebench_r23_single": 2200,
+                "cinebench_r23_multi": 34000
+            },
+            "review": {
+                "performance": "顶级的多线程性能和游戏表现，生产力应用卓越",
+                "stability": "需要搭配高质量主板和供电",
+                "thermals": "发热较大，建议搭配高端水冷散热器",
+                "overclocking": "未锁频版本，具备优秀的超频潜力"
+            }
+        }
+    },
+    {
+        "name": "Intel Core Ultra 7 265K",
+        "category": "cpu",
+        "brand": "Intel",
+        "model": "Core Ultra 7 265K",
+        "price": 2149.0,
+        "specs": {
+            "base_clock": 3.9,
+            "boost_clock": 5.5,
+            "core_count": 20,
+            "thread_count": 20,
+            "core_config": "8个P-核 + 12个E-核",
+            "cache": {
+                "l2": 36,
+                "l3": 30
+            },
+            "socket": "LGA 1851",
+            "process": "TSMC N3B",
+            "tdp": 125,
+            "max_power": 250,
+            "pcie_support": "PCIe 5.0 & 4.0",
+            "memory_support": "DDR5-6400, up to 256 GB",
+            "integrated_graphics": "Intel Graphics (Arc)",
+            "npu": "Intel AI Boost NPU",
+            "cooler_included": "无散热器",
+            "motherboard_compatibility": [
+                "Intel 800 系列"
+            ],
+            "launch_date": "2024-10",
+            "benchmarks": {
+                "cinebench_r23_multi": null,
+                "cinebench_r23_single": null,
+                "cpuz_single_core": null,
+                "cpuz_multi_core": null
+            },
+            "review": {
+                "performance": "作为 Arrow Lake 高端型号，在工作站和创意任务上表现强劲，游戏表现接近 Ryzen 9800X3D，但价格更具竞争力",
+                "stability": "平台较新，兼容性和效率优良",
+                "thermals": "需较强散热，Max Turbo 功耗可达 250 W",
+                "value": "目前低至2149元，性价比提升"
+            }
+        }
+    }
+]

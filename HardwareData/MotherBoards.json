@@ -1,0 +1,669 @@
+[
+    {
+        "name": "华硕TUF GAMING B760M-PLUS WIFI II DDR5",
+        "category": "motherboard",
+        "brand": "ASUS",
+        "model": "TUF GAMING B760M-PLUS WIFI II",
+        "price": 1299.0,
+        "specs": {
+            "socket": "LGA 1700",
+            "chipset": "B760",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 4,
+            "memory_support": "DDR5 192GB",
+            "pcie_slots": {
+                "pcie5_x16": 1,
+                "pcie4_x16": 1,
+                "pcie3_x1": 1
+            },
+            "m2_slots": 3,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true
+                },
+                {
+                    "slot": "M2_3",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2x2_type_c": 1,
+                    "usb3_2_gen2": 2,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 2
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6E",
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 1,
+            "fan_headers": 4,
+            "power_phases": "12+1+1",
+            "power_connector": "24+16",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "usb_c": 1,
+                "audio": 5
+            },
+            "review": {
+                "power_delivery": "12+1+1相供电，支持Intel第12/13/14代处理器稳定运行",
+                "bios": "UEFI BIOS界面友好，功能丰富，支持AI超频",
+                "connectivity": "接口丰富，包含Wi-Fi 6E和2.5G有线网卡",
+                "build_quality": "TUF军规级用料，散热装甲全面，耐用性强"
+            }
+        }
+    },
+    {
+        "name": "微星 B760M GAMING PLUS WIFI DDR4",
+        "category": "motherboard",
+        "brand": "MSI",
+        "model": "B760M GAMING PLUS WIFI DDR4",
+        "price": 999.0,
+        "specs": {
+            "socket": "LGA 1700",
+            "chipset": "B760",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 4,
+            "memory_support": "DDR4",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 2
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4/SATA",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe/SATA"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2": 2,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 2
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6E",
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 1,
+            "fan_headers": 4,
+            "power_phases": "12+1+1",
+            "power_connector": "24+12",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "ps2": 1,
+                "audio": 3,
+                "usb_c": 1
+            },
+            "review": {
+                "power_delivery": "12+1+1相供电，支持Intel第12/13代处理器稳定运行",
+                "bios": "Click BIOS 5界面直观，超频选项丰富",
+                "connectivity": "配备Wi-Fi 6E和2.5G有线网卡，连接性能出色",
+                "build_quality": "GAMING系列用料扎实，扩展接口丰富实用"
+            }
+        }
+    },
+    {
+        "name": "铭瑄MS-B760M GamingWIFI ACE DDR5",
+        "category": "motherboard",
+        "brand": "MAXSUN",
+        "model": "MS-B760M GamingWIFI ACE",
+        "price": 749.0,
+        "specs": {
+            "socket": "LGA 1700",
+            "chipset": "B760",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 2,
+            "memory_support": "DDR5 64GB",
+            "pcie_slots": {
+                "pcie5_x16": 1,
+                "pcie3_x1": 1
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 3,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6",
+            "lan": "Realtek 10/100M",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 0,
+            "fan_headers": 3,
+            "power_phases": "8+1+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "vga": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "8+1+1相供电，适合i3/i5非K处理器基本使用",
+                "bios": "基础BIOS功能齐全，满足日常使用需求",
+                "connectivity": "接口配置基本够用，但网卡仅为百兆规格",
+                "build_quality": "入门级用料，性价比突出，适合预算有限的用户"
+            }
+        }
+    },
+    {
+        "name": "微星 PRO B760M-B DDR4",
+        "category": "motherboard",
+        "brand": "MSI",
+        "model": "PRO B760M-B DDR4",
+        "price": 649.0,
+        "specs": {
+            "socket": "LGA 1700",
+            "chipset": "B760",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 2,
+            "memory_support": "DDR4 64GB",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 2
+            },
+            "m2_slots": 1,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4/SATA",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe/SATA"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": false,
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 0,
+            "argb_headers": 1,
+            "fan_headers": 3,
+            "power_phases": "6+1+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "vga": 1,
+                "ps2": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "6+1+1相基础供电，适合i3/i5非K处理器办公使用",
+                "bios": "基础BIOS功能，稳定性优先，超频选项有限",
+                "connectivity": "基础接口配置，2.5G网卡满足日常网络需求",
+                "build_quality": "PRO系列商用级用料，注重稳定性和耐用性"
+            }
+        }
+    },
+    {
+        "name": "精粵B760I GAMING",
+        "category": "motherboard",
+        "brand": "精粵",
+        "model": "B760I GAMING",
+        "price": 469.0,
+        "specs": {
+            "socket": "LGA 1700",
+            "chipset": "B760",
+            "form_factor": "Mini-ITX",
+            "memory_slots": 2,
+            "memory_support": "DDR4 64GB",
+            "pcie_slots": {
+                "pcie4_x16": 1
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6",
+            "lan": "Realtek 1GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 0,
+            "fan_headers": 2,
+            "power_phases": "8+1+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "hdmi": 1,
+                "displayport": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "8+1+1相供电，适合ITX紧凑机箱内的i3/i5处理器使用",
+                "bios": "基础BIOS功能，满足日常使用需求",
+                "connectivity": "ITX规格下接口配置合理，双M.2设计提升扩展性",
+                "build_quality": "紧凑型ITX设计，适合小型化装机需求，性价比突出"
+            }
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B850M-PLUS WIFI重炮手",
+        "category": "motherboard",
+        "brand": "ASUS",
+        "model": "TUF GAMING B850M-PLUS WIFI",
+        "price": 1399.0,
+        "specs": {
+            "socket": "Socket AM5",
+            "chipset": "B850",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 4,
+            "memory_support": "DDR5",
+            "pcie_slots": {
+                "pcie5_x16": 1,
+                "pcie4_x1": 1,
+                "pcie3_x1": 1
+            },
+            "m2_slots": 3,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 5.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_3",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2x2_type_c": 1,
+                    "usb3_2_gen2": 2,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 2
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6E",
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 1,
+            "fan_headers": 4,
+            "power_phases": "12+2+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "usb_c": 1,
+                "audio": 5
+            },
+            "review": {
+                "power_delivery": "12+2+1相供电，支持AMD Ryzen 7000/8000系列处理器稳定运行",
+                "bios": "UEFI BIOS界面友好，支持AI智能超频和EXPO内存超频",
+                "connectivity": "接口丰富，配备Wi-Fi 6E和2.5G有线网卡，传输速度出色",
+                "build_quality": "TUF军规级用料，强化散热装甲，耐用性强，支持PCIe 5.0"
+            }
+        }
+    },
+    {
+        "name": "微星B650M GAMING WIFI DDR5",
+        "category": "motherboard",
+        "brand": "MSI",
+        "model": "B650M GAMING WIFI",
+        "price": 999.0,
+        "specs": {
+            "socket": "Socket AM5",
+            "chipset": "B650",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 2,
+            "memory_support": "DDR5 96GB",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 1
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 4.0 x4/SATA",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe/SATA"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2": 2,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 2
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6",
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 1,
+            "fan_headers": 3,
+            "power_phases": "10+2+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "usb_c": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "10+2+1相供电，支持AMD Ryzen 7000系列处理器稳定运行",
+                "bios": "Click BIOS 5界面直观，支持EXPO内存超频",
+                "connectivity": "配备Wi-Fi 6和2.5G有线网卡，接口配置实用",
+                "build_quality": "GAMING系列用料扎实，散热设计良好，性价比突出"
+            }
+        }
+    },
+    {
+        "name": "技嘉B650M GAMING WIFI DDR5 白魔鹰",
+        "category": "motherboard",
+        "brand": "GIGABYTE",
+        "model": "B650M GAMING WIFI",
+        "price": 699.0,
+        "specs": {
+            "socket": "Socket AM5",
+            "chipset": "B650",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 2,
+            "memory_support": "DDR5 96GB",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 1
+            },
+            "m2_slots": 1,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2": 1,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6",
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 0,
+            "fan_headers": 3,
+            "power_phases": "8+2+1",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "8+2+1相供电，支持AMD Ryzen 7000系列处理器基本使用",
+                "bios": "Q-Flash Plus BIOS基础功能齐全，支持EXPO内存超频",
+                "connectivity": "配备Wi-Fi 6和2.5G有线网卡，基础接口配置满足日常需求",
+                "build_quality": "白色主题设计，用料扎实，适合组建白色主题主机"
+            }
+        }
+    },
+    {
+        "name": "七彩虹CVN B550M GAMING FROZEN V15战列舰 DDR4",
+        "category": "motherboard",
+        "brand": "Colorful",
+        "model": "CVN B550M GAMING FROZEN V15",
+        "price": 649.0,
+        "specs": {
+            "socket": "Socket AM4",
+            "chipset": "B550",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 4,
+            "memory_support": "DDR4 128GB",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 2
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 3.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 4,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2": 1,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": false,
+            "lan": "Realtek 2.5GbE",
+            "audio": "Realtek ALC897",
+            "rgb_headers": 1,
+            "argb_headers": 1,
+            "fan_headers": 4,
+            "power_phases": "10+2",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "usb_c": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "10+2相供电，支持AMD Ryzen 5000系列处理器稳定运行",
+                "bios": "图形化BIOS界面，支持PCIe 4.0和内存超频",
+                "connectivity": "2.5G有线网卡传输速度快，接口配置齐全实用",
+                "build_quality": "白色战列舰主题设计，散热装甲全面，颜值与性能兼备"
+            }
+        }
+    },
+    {
+        "name": "技嘉 B550M AORUS ELITE AX DDR4 WIFI 小雕",
+        "category": "motherboard",
+        "brand": "GIGABYTE",
+        "model": "B550M AORUS ELITE AX",
+        "price": 739.0,
+        "specs": {
+            "socket": "Socket AM4",
+            "chipset": "B550",
+            "form_factor": "Micro-ATX",
+            "memory_slots": 4,
+            "memory_support": "DDR4 128GB",
+            "pcie_slots": {
+                "pcie4_x16": 1,
+                "pcie3_x1": 2
+            },
+            "m2_slots": 2,
+            "m2_details": [
+                {
+                    "slot": "M2_1",
+                    "interface": "PCIe 4.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": true,
+                    "protocol": "NVMe"
+                },
+                {
+                    "slot": "M2_2",
+                    "interface": "PCIe 3.0 x4",
+                    "size": "2260/2280",
+                    "heatsink": false,
+                    "protocol": "NVMe"
+                }
+            ],
+            "sata_ports": 3,
+            "usb_ports": {
+                "rear": {
+                    "usb3_2_gen2": 2,
+                    "usb3_2_gen1": 2,
+                    "usb2_0": 4
+                },
+                "internal": {
+                    "usb3_2_gen1": 1,
+                    "usb2_0": 1
+                }
+            },
+            "wifi": "Wi-Fi 6",
+            "lan": "Realtek 1GbE",
+            "audio": "Realtek ALC887",
+            "rgb_headers": 1,
+            "argb_headers": 0,
+            "fan_headers": 4,
+            "power_phases": "8+2",
+            "power_connector": "24+8",
+            "rear_io": {
+                "displayport": 1,
+                "hdmi": 1,
+                "usb_c": 1,
+                "audio": 3
+            },
+            "review": {
+                "power_delivery": "8+2相数字供电，支持AMD Ryzen 5000系列处理器稳定运行",
+                "bios": "Q-Flash Plus BIOS，支持PCIe 4.0和内存超频",
+                "connectivity": "配备Wi-Fi 6和千兆有线网卡，接口配置实用",
+                "build_quality": "AORUS小雕系列用料扎实，散热设计良好，性价比突出"
+            }
+        }
+    }
+]
