@@ -126,7 +126,7 @@
         "category": "gpu",
         "brand": "MSI",
         "model": "RTX5060-GAMING-X-OC-8G",
-        "price": null,
+        "price": 2599,
         "specs": {
             "chip": "RTX 5060",
             "architecture": "NVIDIA Ada Lovelace",
@@ -187,7 +187,7 @@
         "category": "gpu",
         "brand": "MSI",
         "model": "RTX5060Ti-GAMING-TRIO-OC-WHITE-8G",
-        "price": null,
+        "price": 3999,
         "specs": {
             "chip": "RTX 5060 Ti",
             "architecture": "NVIDIA Ada Lovelace",
@@ -248,7 +248,7 @@
         "category": "gpu",
         "brand": "Colorful",
         "model": "RTX5080-Ultra-W-OC-16G",
-        "price": null,
+        "price": 9499,
         "specs": {
             "chip": "RTX 5080",
             "architecture": "NVIDIA Ada Lovelace-Next",
@@ -310,7 +310,7 @@
         "category": "gpu",
         "brand": "ASUS",
         "model": "ROG-ASTRAL-RTX5090-OC-32G",
-        "price": null,
+        "price": 29999,
         "specs": {
             "chip": "RTX 5090",
             "architecture": "NVIDIA Ada Lovelace-Next",
@@ -380,7 +380,7 @@
         "category": "gpu",
         "brand": "ASUS",
         "model": "RX7650GRE-O8G-ATS",
-        "price": null,
+        "price": 1999,
         "specs": {
             "chip": "RX 7650 GRE",
             "architecture": "AMD RDNA3",
@@ -442,7 +442,7 @@
         "category": "gpu",
         "brand": "Yeston",
         "model": "RX9070XT-OC-16G-SakuraBride",
-        "price": null,
+        "price": 5099,
         "specs": {
             "chip": "RX 9070 XT",
             "architecture": "AMD RDNA3",
@@ -506,7 +506,7 @@
         "category": "gpu",
         "brand": "Gigabyte",
         "model": "GV-R77XTGAMING-OC-12GD",
-        "price": null,
+        "price": 2999,
         "specs": {
             "chip": "RX 7700 XT",
             "architecture": "AMD RDNA3",
@@ -569,7 +569,7 @@
         "category": "gpu",
         "brand": "Sapphire",
         "model": "RX 7900 XTX Nitro+ 24G",
-        "price": null,
+        "price": 7799,
         "specs": {
             "chip": "RX 7900 XTX",
             "architecture": "AMD RDNA3",

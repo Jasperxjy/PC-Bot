@@ -166,8 +166,9 @@ compatibility_checker = CompatibilityChecker()
 
 # 示例使用
 if __name__ == "__main__":
-    # 获取一个CPU和一个主板
-    cpus = hardware_query.query_hardware(category="cpu", filters={"brand": "Intel", "model": "i5-13400F"})
+
+    # 测试：获取一个CPU和一个主板
+    cpus = hardware_query.query_hardware(category="cpu", filters={"brand": "AMD"})
     mobos = hardware_query.query_hardware(category="motherboard", filters={"brand": "MSI"})
 
     if cpus and mobos:
@@ -175,6 +176,8 @@ if __name__ == "__main__":
         mobo = mobos[0]
 
         is_ok, message, confidence = compatibility_checker.check_compatibility(cpu, mobo)
+        print(cpu['name'])
+        print(mobo['name'])
         print(f"兼容性: {is_ok}")
         print(f"原因: {message}")
         print(f"置信度: {confidence}")

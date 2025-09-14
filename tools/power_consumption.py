@@ -15,7 +15,7 @@ def calculate_power_consumption(config_list):
         "ram": 5,  # 每根内存条
         "ssd": 5,  # 每个SATA/NVMe SSD
         "hdd": 10,  # 每个机械硬盘
-        "cooling": 10,  # 每个风扇或水冷泵
+        "cooling": 5,  # 每个风扇或水冷泵
         "other": 30,  # 其他组件（RGB灯效、PCIe设备等）
     }
 
@@ -58,7 +58,7 @@ def calculate_power_consumption(config_list):
                 gpu_power = 150  # 默认值
         else:
             # 根据GPU型号和级别估算
-            gpu_model = gpu['model'].lower()
+            gpu_model = gpu['name'].lower()
             if 'rtx 4090' in gpu_model or 'rx 7900 xtx' in gpu_model:
                 gpu_power = 450
             elif 'rtx 4080' in gpu_model or 'rx 7900 xt' in gpu_model:
@@ -73,7 +73,7 @@ def calculate_power_consumption(config_list):
         # 增加15%余量考虑峰值功耗
         gpu_power *= 1.15
         total_power += gpu_power
-        component_breakdown[f"gpu_{gpu['model']}"] = gpu_power
+        component_breakdown[f"gpu_{gpu['name']}"] = gpu_power
 
     # 计算其他组件功耗
     for comp_type, estimate in COMPONENT_POWER_ESTIMATES.items():
