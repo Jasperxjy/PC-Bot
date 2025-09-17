@@ -1,0 +1,12 @@
+# LLM相关依赖
+ollama
+# 语音转文字依赖
+faster-whisper
+# 视频下载依赖
+yt-dlp
+# 硬件数据处理依赖
+json
+re
+# 其他可能需要的依赖
+sys
+os

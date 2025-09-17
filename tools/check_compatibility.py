@@ -1,6 +1,15 @@
 import json
 import re
-from querytools import hardware_query  # 导入之前写的查询工具
+import sys
+import os
+
+from tools.querytools import hardware_query
+
+# 导入项目路径以便导入LLM客户端
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# 导入LLM客户端
+from Agent.llm_client import get_llm_client
 
 class CompatibilityChecker:
     def __init__(self):
@@ -129,7 +138,6 @@ class CompatibilityChecker:
     def _check_with_llm(self, component_a, component_b):
         """
         使用LLM作为后备方案进行兼容性检查
-        注意: 这里需要你自行替换为真实的LLM API调用
         """
         # 构建一个清晰的Prompt
         prompt = f"""
@@ -150,16 +158,21 @@ class CompatibilityChecker:
 请只输出一个JSON对象，格式如下：
 {{"compatible": <true|false>, "reason": "一句话解释原因", "confidence": <0.0到1.0之间的数字>}}
 """
-        # TODO: 这里替换成你调用 DeepSeek/QWen 等LLM API的代码
-        # simulated_llm_output = call_llm_api(prompt)
-        simulated_llm_output = '{"compatible": true, "reason": "基于LLM分析的兼容性原因", "confidence": 0.7}'
-
+        
         try:
-            result = json.loads(simulated_llm_output)
+            # 获取LLM客户端实例
+            llm_client = get_llm_client()
+            
+            # 调用LLM生成响应
+            llm_output = llm_client.generate(prompt=prompt)
+            
+            # 解析LLM响应
+            result = json.loads(llm_output)
+            
             return result['compatible'], result['reason'], result['confidence']
-        except json.JSONDecodeError:
-            # 如果LLM没有返回标准JSON，说明可能出错
-            return False, "LLM兼容性检查失败，请手动确认。", 0.0
+        except Exception as e:
+            # 如果LLM调用失败，返回默认的兼容性结果和错误信息
+            return False, f"LLM兼容性检查失败: {str(e)}", 0.0
 
 # 创建全局检查器实例
 compatibility_checker = CompatibilityChecker()
